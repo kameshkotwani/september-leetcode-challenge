@@ -1,4 +1,4 @@
-# September 2020 [Leetcode Questions](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+# September 2020 [Daily Leetcode questions](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
 
 |*Day*| *Question*| *Solution*|
